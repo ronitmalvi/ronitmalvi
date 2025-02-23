@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project on AI Agent<br>👯 I’m looking to collaborate on a great Data Science Project Idea<br>🌱 I’m currently learning GenAI
+🔭 I’m currently working on a project on AI Agent<br>👯 I’m looking to collaborate on a great Data Science Project Idea<br>🌱 I’m currently learning LLMs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/ronit-malvi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malvironit1103@gmail.com) 
